@@ -1,1 +1,2 @@
 Read the first 5 chapters of the Git book
+abcdefg
