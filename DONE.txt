@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Do the exercises of the book
 Read the first 5 chapters of the Git book
 create gitignore file 
 add gitignore in the repo
+=======
+>>>>>>> parent of f790701 (added done tasks)
