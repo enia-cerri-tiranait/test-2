@@ -1,5 +1,0 @@
-Read the first 5 chapters of the Git book
-another thing
-12345678
-abcdefg
-hijklmnop
