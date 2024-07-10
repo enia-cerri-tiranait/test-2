@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Read the first 5 chapters of the Git book
 read the chapter 6
-=======
->>>>>>> parent of f790701 (added done tasks)
